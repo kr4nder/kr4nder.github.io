@@ -7,12 +7,14 @@
 <input type="number" id="n1">
 <input type="number" id="n2">
 <input type="number" id="n3">
+<br>
 <input type="number" id="n4">
 <input type="number" id="n5">
 <input type="number" id="n6">
-
+<br>
 <input type="number" value="" id="result1">
 <input type="number" value="" id="result2">
+<br>
 <button id="bt" onclick=" 
       /* извлечение данных */  
 const n1 = Number(document.querySelector('#n1').value);
