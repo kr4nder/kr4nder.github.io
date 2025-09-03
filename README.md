@@ -14,8 +14,8 @@
 <br>
 <p>Ответ:</p>
 <br>
-x =<input type="number" value="" id="result1">
-y =<input type="number" value="" id="result2">
+x =<input type="number" id="result1">
+y =<input type="number" id="result2">
 <br>
 <button id="bt" onclick=" 
       /* извлечение данных */  
@@ -36,7 +36,8 @@ const n6 = Number(document.querySelector('#n6').value);
        
        
       /* запись результата */ 
-      document.querySelector('#result1').value = result1;                         document.querySelector('#result2').value = result2;                  
+      document.querySelector('#result1').value = result1;                         
+      document.querySelector('#result2').value = result2;                  
     ">Выполнить задание</button>
 </body>
 </html>
