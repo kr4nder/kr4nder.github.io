@@ -4,12 +4,12 @@
 </head>
 <body>
 <h4>krander</h4>
-<input type="number" id="n1">
-<input type="number" id="n2">
+<input type="number" id="n1">x +
+<input type="number" id="n2">y =
 <input type="number" id="n3">
 <br>
-<input type="number" id="n4">
-<input type="number" id="n5">
+<input type="number" id="n4">x +
+<input type="number" id="n5">y =
 <input type="number" id="n6">
 <br>
 <input type="number" value="" id="result1">
