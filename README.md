@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Денис Андронов</title><meta charset="utf-8">
+<meta charset="utf-8">
 </head>
 <body>
 <h4>krander</h4>
@@ -12,8 +12,10 @@
 <input type="number" id="n5">y =
 <input type="number" id="n6">
 <br>
-<input type="number" value="" id="result1">
-<input type="number" value="" id="result2">
+<p>Ответ:</p>
+<br>
+x =<input type="number" value="" id="result1">
+y =<input type="number" value="" id="result2">
 <br>
 <button id="bt" onclick=" 
       /* извлечение данных */  
